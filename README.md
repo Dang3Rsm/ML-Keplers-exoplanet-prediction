@@ -34,7 +34,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 
 ```bash
 git clone https://github.com/Dang3Rsm/ML-Keplers-exoplanet-prediction
-cd kepler-exoplanet-prediction
+cd ML-Keplers-exoplanet-prediction
 ```
 
 ## Acknowledgements
